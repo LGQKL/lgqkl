@@ -15,106 +15,6 @@
   "tokens": [
     {
       "name": "Wrapped Ether",
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
-    },
-    {
-      "name": "Maker",
-      "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
-      "symbol": "MKR",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
-    },
-    {
-      "name": "Maker",
-      "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
-      "symbol": "MKR",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x88A1F698Ef36Bb6C128c2F600Fc9d610AB7de708",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x3A2ED283117A7f8b835f07A50Af24cBab4c007B7",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "name": "ETT Token",
-      "address": "0x071a50263f6BCE9Ce51B8b0aD75ae8244deA8102",
-      "symbol": "ETT",
-      "decimals": 18,
-      "chainId": 4
-    },
-    {
-      "name": "ATT Token",
-      "address": "0x8fDaeB331e1537056f5745830f32868eD42fDc62",
-      "symbol": "ATT",
-      "decimals": 18,
-      "chainId": 4
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x44aC129675f250CfA1b171E20dd4Ffd0Dbe17555",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 42
-    },
-    {
-      "name": "ATT Token",
-      "address": "0xdd251371CB1513074C36C205b9d2269C76cFE655",
-      "symbol": "ATT",
-      "decimals": 18,
-      "chainId": 42
-    },
-    {
-      "name": "Wrapped Ether",
       "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
       "symbol": "WHT",
       "decimals": 18,
@@ -1776,6 +1676,142 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xb7a819d170e59d79f6289b91ca1d1a9d0c788a2a.png"
+    },
+    {
+      "name": "IFNT",
+      "address": "0x7d4c107ec8fd251fd39c32199c70b76eae4e67c1",
+      "symbol": "IFNT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x7d4c107ec8fd251fd39c32199c70b76eae4e67c1.png"
+    },
+    {
+      "name": "TXT",
+      "address": "0x58e24ab51ca52dac8d5413a061c83a371f8f241f",
+      "symbol": "TXT",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x58e24ab51ca52dac8d5413a061c83a371f8f241f.png"
+    },
+    {
+      "name": "SAP",
+      "address": "0xfe2f1890d8dc69cf16d611c71fef4a811ca84575",
+      "symbol": "SAP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xfe2f1890d8dc69cf16d611c71fef4a811ca84575.png"
+    },
+    {
+      "name": "MOMAT",
+      "address": "0x162edc778dfd179a1e54e4bcaaf650dc293bb2c9",
+      "symbol": "MOMAT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x162edc778dfd179a1e54e4bcaaf650dc293bb2c9.png"
+    },
+    {
+      "name": "NFTB",
+      "address": "0xacdbb3329d9c46e6c2c22d123f92a5f6705540fc",
+      "symbol": "NFTB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xacdbb3329d9c46e6c2c22d123f92a5f6705540fc.png"
+    },
+    {
+      "name": "HBC",
+      "address": "0x894b2917c783514c9e4c24229bf60f3cb4c9c905",
+      "symbol": "HBC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x894b2917c783514c9e4c24229bf60f3cb4c9c905.png"
+    },
+    {
+      "name": "BIRD",
+      "address": "0xed6a80032336bdba650d581f07ac64aec58b0f3d",
+      "symbol": "BIRD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xed6a80032336bdba650d581f07ac64aec58b0f3d.png"
+    },
+    {
+      "name": "DOTC",
+      "address": "0xc0748cf90e231b8f21f75b7ad69732f19c76b751",
+      "symbol": "DOTC",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xc0748cf90e231b8f21f75b7ad69732f19c76b751.png"
+    },
+    {
+      "name": "NT",
+      "address": "0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
+      "symbol": "NT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9.png"
+    },
+    {
+      "name": "UBT",
+      "address": "0x5c1a372b944f76e6464e3caade017c0860b252c5",
+      "symbol": "UBT",
+      "decimals": 3,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x5c1a372b944f76e6464e3caade017c0860b252c5.png"
+    },
+    {
+      "name": "OFE",
+      "address": "0xdc216b57cfd24080a920ec66a484c9c01503d6fe",
+      "symbol": "OFE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xdc216b57cfd24080a920ec66a484c9c01503d6fe.png"
+    },
+    {
+      "name": "CNCE",
+      "address": "0xde8490b5b858a55703a6bc7683d7cd73064512f0",
+      "symbol": "CNCE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xde8490b5b858a55703a6bc7683d7cd73064512f0.png"
+    },
+    {
+      "name": "AURA",
+      "address": "0x745e5a2f4db6c78c71911e86e5978990a3630666",
+      "symbol": "AURA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x745e5a2f4db6c78c71911e86e5978990a3630666.png"
+    },
+    {
+      "name": "GOLD",
+      "address": "0xfb371c8b99ba0b239e66e0a66bb6296b00dcd09f",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xfb371c8b99ba0b239e66e0a66bb6296b00dcd09f.png"
+    },
+    {
+      "name": "HHO",
+      "address": "0x56746a8099a7e6d962802a23e01feddc1282cdae",
+      "symbol": "HHO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x56746a8099a7e6d962802a23e01feddc1282cdae.png"
+    },
+    {
+      "name": "FIRE",
+      "address": "0xe97c7f83ec91e29569f1a08de95ad3bb0e8b6b3a",
+      "symbol": "FIRE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe97c7f83ec91e29569f1a08de95ad3bb0e8b6b3a.png"
+    },
+    {
+      "name": "SIOO",
+      "address": "0x81989cd57271565dbffe9807e917afc098b30c9a",
+      "symbol": "SIOO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x81989cd57271565dbffe9807e917afc098b30c9a.png"
     }
   ]
 }
