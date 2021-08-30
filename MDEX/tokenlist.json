@@ -1884,6 +1884,86 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xbf84214ea409a369774321727595f218889ed943.png"
+    },
+    {
+      "name": "BET",
+      "address": "0x028a52032a7075a42585c037f069c62b49ebaa3d",
+      "symbol": "BET",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x028a52032a7075a42585c037f069c62b49ebaa3d.png"
+    },
+    {
+      "name": "C",
+      "address": "0xfed613cdd4182b73a032fe1f03bd7872465010f8",
+      "symbol": "C",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xfed613cdd4182b73a032fe1f03bd7872465010f8.png"
+    },
+    {
+      "name": "SAME",
+      "address": "0xb273fb0f00ff4681fe6cd1137a5e68faba3b1889",
+      "symbol": "SAME",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xb273fb0f00ff4681fe6cd1137a5e68faba3b1889.png"
+    },
+    {
+      "name": "ACMD",
+      "address": "0x8d4088fa51712afd45d066ba317f15fd78739843",
+      "symbol": "ACMD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x8d4088fa51712afd45d066ba317f15fd78739843.png"
+    },
+    {
+      "name": "EPK",
+      "address": "0x2e969f4826466e3ef52eae153f6368d17ec5d8f4",
+      "symbol": "EPK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x2e969f4826466e3ef52eae153f6368d17ec5d8f4.png"
+    },
+    {
+      "name": "CETF",
+      "address": "0x24ab27a7274de0ba5760bab804fe870bb572c510",
+      "symbol": "CETF",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x24ab27a7274de0ba5760bab804fe870bb572c510.png"
+    },
+    {
+      "name": "XTM",
+      "address": "0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db",
+      "symbol": "XTM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db.png"
+    },
+    {
+      "name": "DOG",
+      "address": "0xb3863e02d6930762933f672ca134c1ccecd0d413",
+      "symbol": "DOG",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xb3863e02d6930762933f672ca134c1ccecd0d413.png"
+    },
+    {
+      "name": "HTSUN",
+      "address": "0xca1539b060a6663915c983ac14d2e52b7c0e8360",
+      "symbol": "HTSUN",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xca1539b060a6663915c983ac14d2e52b7c0e8360.png"
+    },
+    {
+      "name": "AMMC",
+      "address": "0x569409cdb77097b518b338f91a808fa868400ace",
+      "symbol": "AMMC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x569409cdb77097b518b338f91a808fa868400ace.png"
     }
   ]
 }
