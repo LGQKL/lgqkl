@@ -1,0 +1,97 @@
+{
+    "name": "LGEX",
+    "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
+    "keywords": [
+      "lgqklxyz",
+      "lgqklex",
+      "trusted"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 128,
+        "address": "0x7cC0C1a34B1ae55f9bd2A19ece9d4b166B66E70c",
+        "name": "LG",
+        "symbol": "LG",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/LG.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/ETH.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x158c9af12137cF8dfd86b3bD191DbAB79D41C856",
+        "name": "YHT",
+        "symbol": "YHT",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/YHT.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x98812B562a8684910575c22c40364ecb7bDb5bfB",
+        "name": "DKJ",
+        "symbol": "DKJ",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/DKJ.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0xF4Ba6c6E40Ad12E2112E4Cf77f87DE9Bc101b59e",
+        "name": "DB",
+        "symbol": "DB",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/DB.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x66B308F739b4553B35dD220390f451bB646F952D",
+        "name": "CRB",
+        "symbol": "CRB",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/CRB.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+        "name": "HBTC",
+        "symbol": "HBTC",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/HBTC.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/USDT.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x376CE5d7517020Cc713BF2DE5f4820ACb4f2B438",
+        "name": "LP",
+        "symbol": "LP",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/LP.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x1935F765D492844857aEDa50bc5c27fC56A9858a",
+        "name": "WKT",
+        "symbol": "WKT",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/WKT.svg"
+      }
+    ],
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "patch": 3
+    }
+  }
