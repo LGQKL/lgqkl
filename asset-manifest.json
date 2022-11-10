@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LG-QKL/static/css/main.27076285.chunk.css",
-    "main.js": "/LG-QKL/static/js/main.2725b445.chunk.js",
-    "main.js.map": "/LG-QKL/static/js/main.2725b445.chunk.js.map",
-    "runtime-main.js": "/LG-QKL/static/js/runtime-main.c3376a98.js",
-    "runtime-main.js.map": "/LG-QKL/static/js/runtime-main.c3376a98.js.map",
+    "main.css": "/LG-QKL/static/css/main.22a2695b.chunk.css",
+    "main.js": "/LG-QKL/static/js/main.a876a7ce.chunk.js",
+    "main.js.map": "/LG-QKL/static/js/main.a876a7ce.chunk.js.map",
+    "runtime-main.js": "/LG-QKL/static/js/runtime-main.ea3d8b16.js",
+    "runtime-main.js.map": "/LG-QKL/static/js/runtime-main.ea3d8b16.js.map",
     "static/css/2.f1ba84e5.chunk.css": "/LG-QKL/static/css/2.f1ba84e5.chunk.css",
-    "static/js/2.88f6aa5a.chunk.js": "/LG-QKL/static/js/2.88f6aa5a.chunk.js",
-    "static/js/2.88f6aa5a.chunk.js.map": "/LG-QKL/static/js/2.88f6aa5a.chunk.js.map",
-    "static/js/3.631e78e6.chunk.js": "/LG-QKL/static/js/3.631e78e6.chunk.js",
-    "static/js/3.631e78e6.chunk.js.map": "/LG-QKL/static/js/3.631e78e6.chunk.js.map",
+    "static/js/2.589da896.chunk.js": "/LG-QKL/static/js/2.589da896.chunk.js",
+    "static/js/2.589da896.chunk.js.map": "/LG-QKL/static/js/2.589da896.chunk.js.map",
+    "static/js/3.b4c4e7fd.chunk.js": "/LG-QKL/static/js/3.b4c4e7fd.chunk.js",
+    "static/js/3.b4c4e7fd.chunk.js.map": "/LG-QKL/static/js/3.b4c4e7fd.chunk.js.map",
     "index.html": "/LG-QKL/index.html",
     "static/css/2.f1ba84e5.chunk.css.map": "/LG-QKL/static/css/2.f1ba84e5.chunk.css.map",
-    "static/css/main.27076285.chunk.css.map": "/LG-QKL/static/css/main.27076285.chunk.css.map",
-    "static/js/2.88f6aa5a.chunk.js.LICENSE.txt": "/LG-QKL/static/js/2.88f6aa5a.chunk.js.LICENSE.txt",
+    "static/css/main.22a2695b.chunk.css.map": "/LG-QKL/static/css/main.22a2695b.chunk.css.map",
+    "static/js/2.589da896.chunk.js.LICENSE.txt": "/LG-QKL/static/js/2.589da896.chunk.js.LICENSE.txt",
     "static/media/App.css": "/LG-QKL/static/media/uniLogo.d9168f15.svg",
     "static/media/LP_OK.gif": "/LG-QKL/static/media/LP_OK.4f119e44.gif",
     "static/media/TBTCa2.a7691a88.jpg": "/LG-QKL/static/media/TBTCa2.a7691a88.jpg",
@@ -35,10 +35,10 @@
     "static/media/spin.svg": "/LG-QKL/static/media/spin.a71ffb17.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3376a98.js",
+    "static/js/runtime-main.ea3d8b16.js",
     "static/css/2.f1ba84e5.chunk.css",
-    "static/js/2.88f6aa5a.chunk.js",
-    "static/css/main.27076285.chunk.css",
-    "static/js/main.2725b445.chunk.js"
+    "static/js/2.589da896.chunk.js",
+    "static/css/main.22a2695b.chunk.css",
+    "static/js/main.a876a7ce.chunk.js"
   ]
 }
