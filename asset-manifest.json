@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/LG-QKL/static/css/main.f95c10d8.chunk.css",
-    "main.js": "/LG-QKL/static/js/main.549fb464.chunk.js",
-    "main.js.map": "/LG-QKL/static/js/main.549fb464.chunk.js.map",
-    "runtime-main.js": "/LG-QKL/static/js/runtime-main.39ddf687.js",
-    "runtime-main.js.map": "/LG-QKL/static/js/runtime-main.39ddf687.js.map",
+    "main.js": "/LG-QKL/static/js/main.a9e1f5a7.chunk.js",
+    "main.js.map": "/LG-QKL/static/js/main.a9e1f5a7.chunk.js.map",
+    "runtime-main.js": "/LG-QKL/static/js/runtime-main.11dca1a5.js",
+    "runtime-main.js.map": "/LG-QKL/static/js/runtime-main.11dca1a5.js.map",
     "static/css/2.f1ba84e5.chunk.css": "/LG-QKL/static/css/2.f1ba84e5.chunk.css",
-    "static/js/2.5fb37874.chunk.js": "/LG-QKL/static/js/2.5fb37874.chunk.js",
-    "static/js/2.5fb37874.chunk.js.map": "/LG-QKL/static/js/2.5fb37874.chunk.js.map",
-    "static/js/3.7b7bb99d.chunk.js": "/LG-QKL/static/js/3.7b7bb99d.chunk.js",
-    "static/js/3.7b7bb99d.chunk.js.map": "/LG-QKL/static/js/3.7b7bb99d.chunk.js.map",
+    "static/js/2.d5de4f44.chunk.js": "/LG-QKL/static/js/2.d5de4f44.chunk.js",
+    "static/js/2.d5de4f44.chunk.js.map": "/LG-QKL/static/js/2.d5de4f44.chunk.js.map",
+    "static/js/3.e7ede69b.chunk.js": "/LG-QKL/static/js/3.e7ede69b.chunk.js",
+    "static/js/3.e7ede69b.chunk.js.map": "/LG-QKL/static/js/3.e7ede69b.chunk.js.map",
     "index.html": "/LG-QKL/index.html",
     "static/css/2.f1ba84e5.chunk.css.map": "/LG-QKL/static/css/2.f1ba84e5.chunk.css.map",
     "static/css/main.f95c10d8.chunk.css.map": "/LG-QKL/static/css/main.f95c10d8.chunk.css.map",
-    "static/js/2.5fb37874.chunk.js.LICENSE.txt": "/LG-QKL/static/js/2.5fb37874.chunk.js.LICENSE.txt",
+    "static/js/2.d5de4f44.chunk.js.LICENSE.txt": "/LG-QKL/static/js/2.d5de4f44.chunk.js.LICENSE.txt",
     "static/media/App.css": "/LG-QKL/static/media/uniLogo.d9168f15.svg",
     "static/media/LP_OK.gif": "/LG-QKL/static/media/LP_OK.4f119e44.gif",
     "static/media/TBTCa2.a7691a88.jpg": "/LG-QKL/static/media/TBTCa2.a7691a88.jpg",
@@ -33,10 +33,10 @@
     "static/media/spin.svg": "/LG-QKL/static/media/spin.a71ffb17.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39ddf687.js",
+    "static/js/runtime-main.11dca1a5.js",
     "static/css/2.f1ba84e5.chunk.css",
-    "static/js/2.5fb37874.chunk.js",
+    "static/js/2.d5de4f44.chunk.js",
     "static/css/main.f95c10d8.chunk.css",
-    "static/js/main.549fb464.chunk.js"
+    "static/js/main.a9e1f5a7.chunk.js"
   ]
 }
