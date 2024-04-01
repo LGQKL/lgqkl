@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LG-QKL/static/css/main.71465993.chunk.css",
-    "main.js": "/LG-QKL/static/js/main.9d16d728.chunk.js",
-    "main.js.map": "/LG-QKL/static/js/main.9d16d728.chunk.js.map",
+    "main.js": "/LG-QKL/static/js/main.f654ba51.chunk.js",
+    "main.js.map": "/LG-QKL/static/js/main.f654ba51.chunk.js.map",
     "runtime-main.js": "/LG-QKL/static/js/runtime-main.743479b7.js",
     "runtime-main.js.map": "/LG-QKL/static/js/runtime-main.743479b7.js.map",
     "static/css/2.f1ba84e5.chunk.css": "/LG-QKL/static/css/2.f1ba84e5.chunk.css",
@@ -40,6 +40,6 @@
     "static/css/2.f1ba84e5.chunk.css",
     "static/js/2.a3c88b78.chunk.js",
     "static/css/main.71465993.chunk.css",
-    "static/js/main.9d16d728.chunk.js"
+    "static/js/main.f654ba51.chunk.js"
   ]
 }
